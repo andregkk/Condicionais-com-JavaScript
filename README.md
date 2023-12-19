@@ -15,7 +15,7 @@ Entrada   | Saída
 Pokémon: 1 | Voce escolheu o Bulbasaur como seu Pokemon inicial.
 Pokémon: 2 | Voce escolheu o Charmander como seu Pokemon inicial.
 Pokémon:  3 | Voce escolheu o Pikachu como seu Pokemon inicial.
-Pokémon: 5 | Voce escolheu o Mewtwocomo seu Pokemon inicial.   
+Pokémon: 5 | Voce escolheu o MewTwo como seu Pokemon inicial.   
 
 
 	
