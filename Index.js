@@ -6,7 +6,7 @@
 let escolhaDoTreinador = parseInt(gets());
 let pokemonEscolhido; 
 
-//TODO: Implemente as condições necessárias para a solução do desafio. Utilize a tabela de exemplos para identificar a escolha do treinador:
+//Implementa as condições necessárias para a solução do desafio. Utilize a tabela de exemplos para identificar a escolha do treinador:
 if ( escolhaDoTreinador === 1) {
     pokemonEscolhido = "Bulbasaur";
 } else if ( escolhaDoTreinador === 2 ) {
